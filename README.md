@@ -59,8 +59,9 @@ Ensure you are using the correct Solidity compiler version (0.8.18).
 If using a local development blockchain like Ganache, ensure it is running and configured correctly.
 Check for sufficient funds in your wallet to deploy and interact with the contract.
 Commands 
-truffle help
-npx hardhat help
+
+*truffle help*
+*npx hardhat help*
 
 
 
